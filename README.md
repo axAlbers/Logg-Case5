@@ -11,7 +11,7 @@ Det blev att vi la fram några alternativ som jag skrev in i våran teams chat s
 ## Logg Intro 2 2024-03-11
 
 Idag har vi valt ett tema och har arbetat på vårat figma skiss. 
-Vi blev nästa färdiga med vårat low-fi och vi har börjat tänka på namn.
+Vi blev nästa färdiga med vårat lo-fi och vi har börjat tänka på namn.
 Under vårat möta på morgonen så försvann Love och vi kunde inte få tag på honom efter det.
 
 ## Logg intro 3 2024-03-19
