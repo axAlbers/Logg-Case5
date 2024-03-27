@@ -21,3 +21,11 @@ Jag har tagit en liten ledar roll för några av de andra ettorna, annars tar Jo
 I måndags så såg jag till att vi arbetade på tillsammans på våran figma skiss så att vi kunde börja fokusera på att göra det i Word Press.
 Idag tisdag så har jag försökt få in welcome sidan i wordpress. Det är inte lätt...
 Imorgon så har vi ett möte då vi ska sätta upp våran server och domän så att vi kan börjat arbeta tillsammans genom WP.
+
+## Logg intro 4 2024-03-27
+
+Idag är det redovisning vi har arbetat på hårt. Jag har arbetat på home sidan och arbetat på Contact us. 
+Vi delade upp de olika sidorna i början så att vi ettor får varsin sida och alla kunde arbeta på Contact sidan. 
+Alla sidor är gjorda och klara (förutom lite små fix). De är gjorda i desktop och mobile vy. 
+Den viktigaste sidan är inte gjord än och vi får bara strunta i den eftersom den som är ansvarig inte gjorde sin del.
+Hoppas att allt går bra mer redovisningen nu :D
